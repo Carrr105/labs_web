@@ -1,2 +1,4 @@
-# labs_web
-Laboratorios de la clase de desarrollo de aplicaciones web
+# Laboratorio 1 de la clase de desarrollo de aplicaciones web
+En este laboratorio se crea un curriculum vitae que se muestra mediante un archivo .html
+
+Carlos Gerardo Herrera - A00821946
