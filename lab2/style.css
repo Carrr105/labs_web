@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight:normal;
+}
+
+h3 {
+    background-color: yellowgreen;
+    font-size: 130%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.proj {
+    border: 4px solid lightskyblue; 
+}
+
+footer {
+    text-align: center;
+    padding: 4px;
+    background-color: darkgoldenrod;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+.desc {
+    line-height: 15px;
+    text-align: center;
+}
+
+#lonk {
+    float: right;
+}
+
+main {
+    background-color: burlywood;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.skills {
+    font-style: italic;
+}
+
